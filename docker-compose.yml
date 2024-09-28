@@ -1,0 +1,7 @@
+version: "1"
+services:
+  DemoContainer:
+    image: jaegerdocker
+    ports:
+      - "16686:16686"
+      
